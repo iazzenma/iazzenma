@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iazzenma
-- 👀 I’m interested in movies, rock music and comics
-- 🌱 I’m currently learning everything abt CS
+- 👀 I’m interested in movies, music and comics
+- 🌱 I’m currently learning Deep Learning and Computer Vision
 - 📫 e-mail: jasta0927@gmail.com
 
 <!---
